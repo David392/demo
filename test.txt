@@ -1,4 +1,5 @@
-Test new file
+﻿Test new file
 許公蓋
 test sync
 test cron job
+test commit2 msg
